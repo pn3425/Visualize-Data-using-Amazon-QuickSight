@@ -1,5 +1,5 @@
 # Visualize-Data-using-Amazon-QuickSight
-In this mini-AWS project, we'll be visualizing data with Amazon QuickSight, Amazon S3, and Bright Data. The dataset consists of 50,000 Amazon bestseller products sourced from Bright Data.
+In this AWS project, we'll be visualizing data with Amazon QuickSight, Amazon S3, and Bright Data. The dataset consists of 50,000 Amazon bestseller products sourced from Bright Data.
 Dataset Link - https://github.com/techwithlucy/youtube/tree/main/2-s3-quicksight
 Amazon Services used - S3, Quick Sight
 
